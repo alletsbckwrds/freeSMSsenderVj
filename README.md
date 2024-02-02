@@ -1,2 +1,4 @@
 # freeSMSsenderVj
-Free anonimous SMS sender, now in Japanese!
+Free anonymous SMS sender, now in Japanese!
+
+For any translation errors/suggestions, __please__ open an issue.
